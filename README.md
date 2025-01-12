@@ -6,7 +6,7 @@ In this project we will be building a weather dashboard which collects data from
 
 1.Clone the repository from the below link
 ```sh
-https://github.com/Ajay-Kumar2103/30Days_DevOps_Challenge_Day1.git
+https://github.com/Ajay-Kumar2103/Weather_Dashboard.git
 ```
 
 2. Install the dependencies from requirements.txt
